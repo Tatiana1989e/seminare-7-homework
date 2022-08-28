@@ -1,0 +1,5 @@
+D:\HomeWork seminars\homework seminare 7 tasks\obj\Debug\net6.0\homework seminare 7 tasks.csproj.AssemblyReference.cache
+D:\HomeWork seminars\homework seminare 7 tasks\obj\Debug\net6.0\homework seminare 7 tasks.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWork seminars\homework seminare 7 tasks\obj\Debug\net6.0\homework seminare 7 tasks.AssemblyInfoInputs.cache
+D:\HomeWork seminars\homework seminare 7 tasks\obj\Debug\net6.0\homework seminare 7 tasks.AssemblyInfo.cs
+D:\HomeWork seminars\homework seminare 7 tasks\obj\Debug\net6.0\homework seminare 7 tasks.csproj.CoreCompileInputs.cache
